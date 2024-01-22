@@ -9,5 +9,4 @@ public class SbbmissionApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SbbmissionApplication.class, args);
 	}
-
 }
